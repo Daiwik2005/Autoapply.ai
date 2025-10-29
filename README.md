@@ -1,4 +1,4 @@
-so we are building a agent to auto apply jobs which match with my resume completely from scratch
+Building a agent to auto apply jobs which match with my resume completely from scratch!
 
 In the first phase we are going on with 
 first taking 
